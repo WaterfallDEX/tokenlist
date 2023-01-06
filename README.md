@@ -25,12 +25,12 @@ description: 'Build on Waterfall and need help? let us know.'
 
 ### 2. Token Information File <a id="2-token-information-file"></a>
 
-> * Fork the repository and add the token information (example below) to mainnet.tokenlist.json
+> * Fork the repository and add the token information (example below) to tokenlist.json
 > * Create a folder under assets/{blockchainName}/{tokenAddress}
 > * Add the token icon (logo.png) under the folder created in the previous step
-> * Add the token information in the mainnet.tokenlist.json file, in the format shown below
+> * Add the token information in the tokenlist.json file, in the format shown below
 
-The sample below shows what information has to be included on the `mainnet.tokenlist.json` file.  
+The sample below shows what information has to be included on the `tokenlist.json` file.  
 Please make sure that the details are accurate and follows the formatting.  
 The contract address should follow the checksum address format \(see next requirement\).
 
