@@ -65,6 +65,22 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/WaterfallDEX/tokenlist/main/assets/arbitrum/0xedBF59b40336244c6ea94A11a6B0cF6864c87E83/logo.png"
+    },
+	{
+      "name": "Adventurer Gold",
+      "symbol": "GOLD",
+      "address": "0xc4be0798e5b5b1C15edA36d9B2D8c1A60717fA92",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WaterfallDEX/tokenlist/main/assets/arbitrum/0xc4be0798e5b5b1C15edA36d9B2D8c1A60717fA92/logo.png"
+    },
+	{
+      "name": "Adventurer Silver",
+      "symbol": "SILVER",
+      "address": "0x92971764D12B04b3e3fD7BA670e57d9E8DB06B67",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WaterfallDEX/tokenlist/main/assets/arbitrum/0x92971764D12B04b3e3fD7BA670e57d9E8DB06B67/logo.png"
     }
   ]
 }
