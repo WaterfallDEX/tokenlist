@@ -81,6 +81,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/WaterfallDEX/tokenlist/main/assets/arbitrum/0x92971764D12B04b3e3fD7BA670e57d9E8DB06B67/logo.png"
+    },
+	{
+      "name": "Umami",
+      "symbol": "UMAMI",
+      "address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
+      "chainId": 42161,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/WaterfallDEX/tokenlist/main/assets/arbitrum/0x1622bF67e6e5747b81866fE0b85178a93C7F86e3/logo.png"
     }
   ]
 }
