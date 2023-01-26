@@ -89,6 +89,14 @@
       "chainId": 42161,
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/WaterfallDEX/tokenlist/main/assets/arbitrum/0x1622bF67e6e5747b81866fE0b85178a93C7F86e3/logo.png"
+    },
+	{
+      "name": "Lychee Finance",
+      "symbol": "LYCHEE",
+      "address": "0x8e002437783e28C7baB9EC67e0DC013221F08bd0",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WaterfallDEX/tokenlist/main/assets/arbitrum/0x8e002437783e28C7baB9EC67e0DC013221F08bd0/logo.png"
     }
   ]
 }
